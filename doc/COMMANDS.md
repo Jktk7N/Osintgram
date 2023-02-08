@@ -81,7 +81,7 @@ Show target info like:
 - Contact phone number (if available)
 
 ### JSON
-Can set preference to export commands output as JSON in output folder. It save output in `<target username>_<command>.JSON` file.
+Can set preference to export commands output as JSON in output folder. It save output in `<target jikook_370>_<command>.JSON` file.
 
 With `JSON=y` you can enable JSON exporting.
 
